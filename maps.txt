@@ -82,6 +82,8 @@ https://osu.ppy.sh/beatmapsets/1109083#osu/2317735 [Revolution]
 https://osu.ppy.sh/beatmapsets/904134#osu/1887384 [Extreme]
 https://osu.ppy.sh/beatmapsets/636072#osu/1349766 [Nevo's Extra]
 https://osu.ppy.sh/beatmapsets/1183076#osu/2466406 [Tears]
+https://osu.ppy.sh/beatmapsets/525840#osu/1115984 [Labradorite]
+https://osu.ppy.sh/beatmapsets/397905#osu/865344 [Gameover]
 A little harder: 
 https://osu.ppy.sh/beatmapsets/1002554#osu/2098486 [Absolution]
 https://osu.ppy.sh/beatmapsets/586889#osu/1243784 [Gaia's Extra]
@@ -138,6 +140,7 @@ https://osu.ppy.sh/beatmapsets/945904#osu/1975112 [Darkest of Nights]
 https://osu.ppy.sh/beatmapsets/690430#osu/1461252 [Ambivalent]
 https://osu.ppy.sh/beatmapsets/586889#osu/1243784 [Gaia's Extra]
 https://osu.ppy.sh/beatmapsets/840447#osu/1759213 [Viola]
+https://osu.ppy.sh/beatmapsets/355573#osu/786867 [Game Edit]
 Others:
 https://osu.ppy.sh/beatmapsets/965463#osu/2021000 [NeilPerry's Conflux] //Harder to read shadows
 https://osu.ppy.sh/beatmapsets/817667#osu/1714637 [J1's Expert] //Singletapping
