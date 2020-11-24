@@ -141,6 +141,7 @@ https://osu.ppy.sh/beatmapsets/690430#osu/1461252 [Ambivalent]
 https://osu.ppy.sh/beatmapsets/586889#osu/1243784 [Gaia's Extra]
 https://osu.ppy.sh/beatmapsets/840447#osu/1759213 [Viola]
 https://osu.ppy.sh/beatmapsets/355573#osu/786867 [Game Edit]
+https://osu.ppy.sh/beatmapsets/1273985#osu/2647187 [Luminescent]
 Others:
 https://osu.ppy.sh/beatmapsets/965463#osu/2021000 [NeilPerry's Conflux] //Harder to read shadows
 https://osu.ppy.sh/beatmapsets/817667#osu/1714637 [J1's Expert] //Singletapping
@@ -186,3 +187,4 @@ https://osu.ppy.sh/beatmapsets/1124097#osu/2348896 //This could possibly be the 
 https://osu.ppy.sh/beatmapsets/747793#osu/1575576 [Lilies] //good intro to weird patterns 
 https://osu.ppy.sh/beatmapsets/1148799#osu/2411485 [Muya's Another]
 https://osu.ppy.sh/beatmapsets/210679#osu/758579 //Dang, insanely fun jumps
+https://osu.ppy.sh/beatmapsets/499488#osu/1079698 //Fun!
